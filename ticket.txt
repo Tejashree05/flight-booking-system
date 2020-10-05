@@ -1,0 +1,4 @@
+teja reddy female 21 teja@gmail.com 987654321 economic 243145325 38000 2 76000
+navya reddy female 19 navya@gmail.com 908765432 business 987657 38000 1 38000
+bhuvan kumar male 20 bhuv@gmail.com 897654312 business 8766565 36000 2 72000
+Nikil kumar male 21 nikil@gmail.com 98787673 economic 87864238 39000 2 78000

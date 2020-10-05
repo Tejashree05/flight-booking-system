@@ -1,0 +1,9 @@
+IndiGo|23|23/6/2020|Bangalore|singapore|12000|||||||||||||||||||||||
+AirIndia|21|25/6/2020|delhi|paris|38000||||||||||||||||||||||||||
+SpiceJet|18|21/6/2020|delhi|malaysia|15000|||||||||||||||||||||||||
+GoAir|19|14/6/2020|delhi|singapore|13000||||||||||||||||||||||||||
+Vistara|12|15/6/2020|hyderabad|NewYork|34000||||||||||||||||||||||||
+IndiGo|26|16/6/2020|chennai|singapore|18000||||||||||||||||||||||||
+SpiceJet|14|20/6/2020|bangalore|NewYork|36000|||||||||||||||||||||||
+GoAir|17|1/6/2020|delhi|chicago|39000|||||||||||||||||||||||||||
+fdbdh|4354|6523|fjheufg|fduysgfye|6567|||||||||||||||||||||||||||
